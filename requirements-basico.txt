@@ -1,0 +1,10 @@
+# Fichero con las librerías necesarias para crear documentos Jupyter Nobooks
+# para el estudio y generación de modelos ML de Aprendizaje Supervisasdo y No Supervisasdo
+
+# Por simplicidad se ha definido las versiones actuales en el momento en que se ha generado el fichero
+
+jupyter==1.1.1
+numpy==2.4.6
+pandas==3.1.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
